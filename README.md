@@ -11,9 +11,9 @@
   - [Financial Analytics: SQL, PowerBi, Excel](https://github.com/TamiyaD/Healthcare-Claims-and-Billing)
  
 <b>Sqls</b> 
-- <b>Sqls</b> Population Health Analytics: Chronic Conditions, Encounters, Immunizations and conditions insights
+- <b>Population Health Analytics: Chronic Conditions, Encounters, Immunizations and conditions insights</b>
   - [Big Query: 3 Tables](https://github.com/TamiyaD/Population-Health-Analytics/tree/main)
-- <b>Sqls</b> Cirrhosis Dataset-Complete ML Preprocessing Pipeline
+- <b>Cirrhosis Dataset-Complete ML Preprocessing Pipeline</b>
   - [Mysql: Preprocessing](https://github.com/TamiyaD/Cirrhosis-Dataset-Complete-ML-Preprocessing-Pipeline)
     
 <!--
